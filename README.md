@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Experience the application firsthand: [e-Paradise Shopping Live Demo]([https://ryanl2004.github.io/e-paradiseShopping/](https://marouenksentini.github.io/e-paradiseShopping-main/))
+Experience the application firsthand: [e-Paradise Shopping Live Demo](https://marouenksentini.github.io/e-paradiseShopping-main/)
 
 ---
 
