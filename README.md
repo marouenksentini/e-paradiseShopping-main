@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Experience the application firsthand: [e-Paradise Shopping Live Demo](https://ryanl2004.github.io/e-paradiseShopping/)
+Experience the application firsthand: [e-Paradise Shopping Live Demo]([https://ryanl2004.github.io/e-paradiseShopping/](https://marouenksentini.github.io/e-paradiseShopping-main/))
 
 ---
 
@@ -144,18 +144,6 @@ Please ensure your code adheres to our coding standards and includes relevant te
 
 ---
 
-## 🌟 Code of Conduct
-
-We expect all participants to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards of behavior we expect from our community.
-
----
-
-## 🛡️ Security Policy
-
-To report security vulnerabilities, please contact us directly at **securityparadise@gmail.com**. Your report will be handled with the utmost confidentiality, and we will work to address issues promptly.
-
----
-
 ## 🛡️ License
 
 This project is licensed under the [Apache-2.0 License](LICENSE).
@@ -166,9 +154,8 @@ This project is licensed under the [Apache-2.0 License](LICENSE).
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues**: [Create an issue](https://github.com/RyanL2004/e-paradiseShopping/issues)
-- **Email**: rayanlouahche2004@gmail.com
-- **LinkedIn**: [Rayan's Profile](https://www.linkedin.com/in/rayan-louahche/)
+- **Email**: marouenksentini@gmail.com
+- **LinkedIn**: [Profile]([https://www.linkedin.com/in/rayan-louahche/)](https://www.linkedin.com/in/marouen-ksentini/)
 
 ---
 
